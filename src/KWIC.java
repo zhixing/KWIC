@@ -1,8 +1,8 @@
 /*
  * CS3213 Home work 1: KWIC
  * Group members:
- * 	Qing Cheng (A0091747)
- * 	Yang Zhixing (A0091726)
+ * 	Qing Cheng (A0091747W)
+ * 	Yang Zhixing (A0091726B)
  */
 
 import java.io.BufferedReader;
@@ -117,6 +117,9 @@ public class KWIC {
 		
 		// By Zhixing
 		outputResult(alphabetizedList);
+		
+		// After writing the above functions individually, 
+		// two team members integrated the code together, debugged and tested together.
 		
 	}
 }
